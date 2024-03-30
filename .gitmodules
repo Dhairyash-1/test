@@ -1,0 +1,3 @@
+[submodule "text-chunker"]
+	path = text-chunker
+	url = https://github.com/Dhairyash-1/text-chunker
